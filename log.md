@@ -6,11 +6,19 @@ I have a few personal projects I seem to be making little progress on as well as
 
 ### Day 0: July 4, 2022
 
-**Today's Progress**: Went through 7/66 videos of a Vue.js tutorial.
+**Today's Progress**: Went up to 7/66 videos of a Vue.js tutorial.
 
 **Thoughts:** So far so good, Vue is a bit different from Angular which I learned throughout my student career, but for now the differences seem minimal. The `v-` tags will take some time getting used to though.
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=_CdLj6ExjX0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=8)
+
+### Day 1: July 5, 2022
+
+**Today's Progress**: Went up to 14/66 videos of a Vue.js tutorial. Learned about conditional rendering as well as list rendering.
+
+**Thoughts:** Vue seems to be a bit easier to grasp than Angular, but that might be because i'm familiar with component based systems. However, i do find the v-tags to be quite easy to use. The template tag is quite nice as well.
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=yaRKuxIHag4&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=14)
 
 
 ## Log Template
