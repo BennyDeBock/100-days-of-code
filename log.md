@@ -26,7 +26,7 @@ I have a few personal projects I seem to be making little progress on as well as
 
 **Thoughts:** Froms and event handling is mostly the same as I've experienced in Angular, though made a bit easier. I also learned what the difference is between computed properties and methods in vue. Furthermore, i found out by mistake I can view my app on my phone when running a vue application in development. That'll make mobile development that much easier.
 
-**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=dXFriqD9odk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=25)
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=afacrmHQtUw&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=27)
 
 ## Log Template
 ### Day x: June xx, Monday
