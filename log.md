@@ -22,7 +22,7 @@ I have a few personal projects I seem to be making little progress on as well as
 
 ### Day 2: July 6, 2022
 
-**Today's Progress**: Went up to 25/66 videos of a Vue.js tutorial. Learned about event handling, form handling, modifiers and computed properties in Vue.
+**Today's Progress**: Went up to 27/66 videos of a Vue.js tutorial. Learned about event handling, form handling, modifiers and computed properties in Vue.
 
 **Thoughts:** Froms and event handling is mostly the same as I've experienced in Angular, though made a bit easier. I also learned what the difference is between computed properties and methods in vue. Furthermore, i found out by mistake I can view my app on my phone when running a vue application in development. That'll make mobile development that much easier.
 
