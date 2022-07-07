@@ -28,6 +28,14 @@ I have a few personal projects I seem to be making little progress on as well as
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=afacrmHQtUw&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=27)
 
+### Day 3: July 7, 2022
+
+**Today's Progress**: Went up to 34/66 videos of a Vue.js tutorial. Learned about Vue components, component props and provide/inject.
+
+**Thoughts:** The way of handling components is pretty easy. The non-props is new to me however. I don't remember having anything like that in Angular when I was using it. I'm now officially halfway through the tutorial series, so i can start rebuilding the table tennis website soon!
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=bbQnHpIpjgY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=34)
+
 ## Log Template
 ### Day x: June xx, Monday
 
