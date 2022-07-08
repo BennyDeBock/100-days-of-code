@@ -36,6 +36,17 @@ I have a few personal projects I seem to be making little progress on as well as
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=bbQnHpIpjgY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=34)
 
+### Day 4: July 8, 2022
+
+**Today's Progress**: Redid the CSS for showing pictures in an album. Added a nice effect to accentuate the hovered over picture. Sorted the albums in descending order so the newer ones show first.
+
+**Thoughts:** It's been a hot minute since i did CSS so this was a good refresher, though this came with hardships.
+
+**Link(s) to work**
+1. [Pull Request](https://github.com/Heimdalbe/Jormungandr/pull/11)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=bbQnHpIpjgY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=34)
+
 ## Log Template
 ### Day x: June xx, Monday
 
