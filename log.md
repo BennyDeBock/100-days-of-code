@@ -47,6 +47,23 @@ I have a few personal projects I seem to be making little progress on as well as
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=bbQnHpIpjgY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=34)
 
+### Day 5: July 10, 2022
+
+**Today's Progress**: Added a help command and switched out discord.py for pycord on a discord bot project. Fixed the slash commands that were already there.
+
+**Thoughts:** It's annoying that the discord python bot community has been so divided with the packages. Searching for pycord issues is definitely harder since you come across a lot of discord.py stuff
+
+**Link(s) to work**
+1. [Update requirements](https://github.com/Heimdalbe/Yggdrasil/commit/67d8458afc5fa3e1ded81b9a3036726fa28a2459)
+2. [Refactor folder](https://github.com/Heimdalbe/Yggdrasil/commit/bcf3eccaa14f591365bcd5520aeccb40fe582a25)
+3. [Add help command](https://github.com/Heimdalbe/Yggdrasil/commit/b4e9ec07e477733cb64d244fdc8221b6b3e88e7e)
+4. [Add the cogs to the bot](https://github.com/Heimdalbe/Yggdrasil/commit/6990ffc5fbe6b2657a7da5488841e64d0bec921b)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=bbQnHpIpjgY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=34)
+
+
+
+
 ## Log Template
 ### Day x: June xx, Monday
 
