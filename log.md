@@ -62,6 +62,14 @@ I have a few personal projects I seem to be making little progress on as well as
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=bbQnHpIpjgY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=34)
 
 
+### Day 6: July 11, 2022
+
+**Today's Progress**: Went up to 40/66 videos of a Vue.js tutorial. Learned about component events and slots in vue.
+
+**Thoughts:** Slots seem pretty powerful to pass in data from a parent component. It will definitely warrant some experimentation.
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
 
 
 ## Log Template
