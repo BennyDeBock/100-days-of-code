@@ -72,6 +72,18 @@ I have a few personal projects I seem to be making little progress on as well as
 
 
 
+### Day 7: July 12, 2022
+
+**Today's Progress**: Fixed the stamboom response from the bot. Added a clear command to the bot where the user can specify how many messages they want to remove.
+
+**Thoughts:** Finally making decent progress on the bot. I need to ask which commands they would like to see other than some basic ones as well!
+
+**Link(s) to work**
+1. [Yggdrasil](https://github.com/Heimdalbe/Yggdrasil)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
+
 ## Log Template
 ### Day x: June xx, Monday
 
