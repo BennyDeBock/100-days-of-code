@@ -79,10 +79,19 @@ I have a few personal projects I seem to be making little progress on as well as
 **Thoughts:** Finally making decent progress on the bot. I need to ask which commands they would like to see other than some basic ones as well!
 
 **Link(s) to work**
-1. [Yggdrasil](https://github.com/Heimdalbe/Yggdrasil)
+1. [Pull Request](https://github.com/vapor/docs/pull/667)
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
 
+
+### Day 8: July 13, 2022
+
+**Today's Progress**: Translated everything of the security folder in the vapor documentation to dutch.
+
+**Link(s) to work**
+1. [Yggdrasil](https://github.com/Heimdalbe/Yggdrasil)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
 
 ## Log Template
 ### Day x: June xx, Monday
