@@ -93,6 +93,16 @@ I have a few personal projects I seem to be making little progress on as well as
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
 
+
+### Day 9: July 15, 2022
+
+**Today's Progress**: Started upgrading the Heimdal website from version 3.0.5 to 3.1.14
+
+**Link(s) to work**
+1. [Jormungandr]([https://github.com/Heimdalbe/Yggdrasil](https://github.com/Heimdalbe/Jormungandr/tree/enhancement/UpgradeVersion))
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
 ## Log Template
 ### Day x: June xx, Monday
 
