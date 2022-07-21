@@ -103,6 +103,24 @@ I have a few personal projects I seem to be making little progress on as well as
 
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
 
+
+### Day 10: July 16, 2022
+
+**Today's Progress**: Tested the changes in the upgrade to the Heimdal website
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
+
+### Day 11: July 21, 2022
+
+**Today's Progress**: Started upgrading the Heimdal website from version 3.1.14 to 3.2.14 and tested it
+
+**Link(s) to work**
+1. [Jormungandr](https://github.com/Heimdalbe/Jormungandr/pull/12)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
+
 ## Log Template
 ### Day x: June xx, Monday
 
