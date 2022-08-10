@@ -121,6 +121,26 @@ I have a few personal projects I seem to be making little progress on as well as
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
 
 
+### Day 12: August 3, 2022
+
+**Today's Progress**: Translated all leaf documentation for vapor and started translating fluent documentation.
+
+**Link(s) to work**
+1. [Translation PR](https://github.com/vapor/docs/pull/667)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
+
+### Day 13: August 10, 2022
+
+**Today's Progress**: Continue translating the Vapor Documentation
+
+**Link(s) to work**
+1. [Translation PR](https://github.com/vapor/docs/pull/667)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
+
 ## Log Template
 ### Day x: June xx, Monday
 
