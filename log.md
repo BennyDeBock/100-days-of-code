@@ -141,6 +141,16 @@ I have a few personal projects I seem to be making little progress on as well as
 **To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
 
 
+### Day 14: August 12, 2022
+
+**Today's Progress**: Finished translating the Vapor Documentation
+
+**Link(s) to work**
+1. [Translation PR](https://github.com/vapor/docs/pull/667)
+
+**To Do:** Continue the [tutorial](https://www.youtube.com/watch?v=T0yVKIcBkK0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=40)
+
+
 ## Log Template
 ### Day x: June xx, Monday
 
